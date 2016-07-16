@@ -1,0 +1,14 @@
+census.code	label.name	SEGMENT
+B01001_003E	Male:!!Under 5 years	003E
+B01001_004E	Male:!!5 to 9 years	004E
+B01001_005E	Male:!!10 to 14 years	005E
+B01001_027E	Female:!!Under 5 years	027E
+B01001_028E	Female:!!5 to 9 years	028E
+B01001_029E	Female:!!10 to 14 years	029E
+B19301_001E	Per_Capita_Income	001E
+B19025_001E	Aggregate_HH_Income	001E
+B19313_001E	Aggregate_income_15	001E
+B00001_001E	Total2	001E
+B01001_002E	Male:	002E
+B01001_026E	Female:	026E
+B11016_001E	Total_households	001E
